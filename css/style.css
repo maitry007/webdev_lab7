@@ -1,4 +1,15 @@
 td, 
 th{
 	border: 1px solid;
+  text-align: center;
+  left: 50px;
+}
+
+body{
+  text-align: center;
+  background-color: #D3D3D3;
+}
+
+title{
+  
 }
